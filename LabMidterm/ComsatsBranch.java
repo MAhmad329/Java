@@ -6,7 +6,7 @@ public class ComsatsBranch extends IslamabadBranch {
 
     public ComsatsBranch(){
         super();
-        super.branch = "FAST";
+        super.branch = "FAST Comsats";
 
     }
 
